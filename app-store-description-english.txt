@@ -1,0 +1,72 @@
+APP NAME
+Hafiz Quran
+
+SUBTITLE (30 characters max)
+Memorize Quran with confidence
+
+PROMOTIONAL TEXT (170 characters max - can update anytime without review)
+Master Quran memorization with our proven system: chunked learning, spaced repetition, and daily habits. Start your journey today.
+
+DESCRIPTION (4,000 characters max)
+MEMORIZE THE QURAN WITH CONFIDENCE
+
+Hafiz Quran combines Islamic tradition with modern learning science to make Quran memorization achievable for everyone.
+
+INTELLIGENT CHUNKING
+Break ayahs into 2-3 word chunks. Memorize individually, then combine recursively. This follows natural language patterns and reduces cognitive load.
+
+SPACED REPETITION
+Review at scientifically optimal intervals. The system groups pages progressively as you advance, keeping daily review manageable even with hundreds of pages memorized.
+
+DAILY HABIT BUILDING
+Streaks, progress tracking, and clear goals help you build the consistency that transforms aspiration into achievement.
+
+FEATURES
+• Structured lessons for all 604 pages of the Quran
+• Mushaf-accurate text in your hand
+• Built-in audio for every ayah
+• Progress tracking and statistics
+• Daily review reminders
+• Offline access to all content
+
+WHO IT'S FOR
+• Anyone aspiring to become a Hafiz
+• Students in Quran memorization programs
+• Parents teaching their children
+• Adults returning to memorization
+• Anyone seeking a systematic approach
+
+NO EXCUSES
+• No complex setup
+• No ads
+• No account required
+• Works offline
+
+Start your memorization journey today. Every hafiz began with a single ayah.
+
+إن شاء الله | In sha Allah
+
+KEYWORDS (100 characters max, comma-separated)
+quran,hafiz,memorization,islam,muslim,tajweed,learning,education,religion,arabic
+
+SUPPORT URL
+https://github.com/hafiz-quran/mobile-app
+
+MARKETING URL (optional)
+https://hafiz-quran.github.io/hafiz-quran-docs/
+
+PRIVACY POLICY URL
+https://hafiz-quran.github.io/hafiz-quran-docs/privacy.html
+
+CATEGORY
+Primary: Education
+Secondary: Reference
+
+AGE RATING
+4+ (No objectionable content, religious/cultural content)
+
+PRICE
+Free
+
+COPYRIGHT
+© 2024 Hafiz Quran. All rights reserved.
